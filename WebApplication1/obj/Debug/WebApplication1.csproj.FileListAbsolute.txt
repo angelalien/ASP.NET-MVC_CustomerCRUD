@@ -1,0 +1,64 @@
+d:\users\s429117\documents\visual studio 2013\Projects\WebApplication_Customer\WebApplication1\bin\WebApplication1.dll.config
+d:\users\s429117\documents\visual studio 2013\Projects\WebApplication_Customer\WebApplication1\bin\WebApplication1.dll
+d:\users\s429117\documents\visual studio 2013\Projects\WebApplication_Customer\WebApplication1\bin\WebApplication1.pdb
+d:\users\s429117\documents\visual studio 2013\Projects\WebApplication_Customer\WebApplication1\bin\CustomerLibrary.dll
+d:\users\s429117\documents\visual studio 2013\Projects\WebApplication_Customer\WebApplication1\bin\EntityFramework.dll
+d:\users\s429117\documents\visual studio 2013\Projects\WebApplication_Customer\WebApplication1\bin\EntityFramework.SqlServer.dll
+d:\users\s429117\documents\visual studio 2013\Projects\WebApplication_Customer\WebApplication1\bin\System.Web.Helpers.dll
+d:\users\s429117\documents\visual studio 2013\Projects\WebApplication_Customer\WebApplication1\bin\System.Web.Mvc.dll
+d:\users\s429117\documents\visual studio 2013\Projects\WebApplication_Customer\WebApplication1\bin\System.Web.Razor.dll
+d:\users\s429117\documents\visual studio 2013\Projects\WebApplication_Customer\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+d:\users\s429117\documents\visual studio 2013\Projects\WebApplication_Customer\WebApplication1\bin\System.Web.Webpages.dll
+d:\users\s429117\documents\visual studio 2013\Projects\WebApplication_Customer\WebApplication1\bin\System.Web.Webpages.Razor.dll
+d:\users\s429117\documents\visual studio 2013\Projects\WebApplication_Customer\WebApplication1\bin\CustomerLibrary.pdb
+d:\users\s429117\documents\visual studio 2013\Projects\WebApplication_Customer\WebApplication1\bin\EntityFramework.xml
+d:\users\s429117\documents\visual studio 2013\Projects\WebApplication_Customer\WebApplication1\bin\EntityFramework.SqlServer.xml
+d:\users\s429117\documents\visual studio 2013\Projects\WebApplication_Customer\WebApplication1\bin\System.Web.Razor.xml
+d:\users\s429117\documents\visual studio 2013\Projects\WebApplication_Customer\WebApplication1\bin\System.Web.Webpages.xml
+d:\users\s429117\documents\visual studio 2013\Projects\WebApplication_Customer\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+d:\users\s429117\documents\visual studio 2013\Projects\WebApplication_Customer\WebApplication1\bin\System.Web.Webpages.Razor.xml
+d:\users\s429117\documents\visual studio 2013\Projects\WebApplication_Customer\WebApplication1\bin\System.Web.Helpers.xml
+d:\users\s429117\documents\visual studio 2013\Projects\WebApplication_Customer\WebApplication1\bin\System.Web.Mvc.xml
+d:\users\s429117\documents\visual studio 2013\Projects\WebApplication_Customer\WebApplication1\bin\zh-Hant\System.Web.Razor.resources.dll
+d:\users\s429117\documents\visual studio 2013\Projects\WebApplication_Customer\WebApplication1\bin\zh-Hant\System.Web.Webpages.resources.dll
+d:\users\s429117\documents\visual studio 2013\Projects\WebApplication_Customer\WebApplication1\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+d:\users\s429117\documents\visual studio 2013\Projects\WebApplication_Customer\WebApplication1\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+d:\users\s429117\documents\visual studio 2013\Projects\WebApplication_Customer\WebApplication1\bin\zh-Hant\System.Web.Helpers.resources.dll
+d:\users\s429117\documents\visual studio 2013\Projects\WebApplication_Customer\WebApplication1\bin\zh-Hant\System.Web.Mvc.resources.dll
+d:\users\s429117\documents\visual studio 2013\Projects\WebApplication_Customer\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+d:\users\s429117\documents\visual studio 2013\Projects\WebApplication_Customer\WebApplication1\obj\Debug\WebApplication1.dll
+d:\users\s429117\documents\visual studio 2013\Projects\WebApplication_Customer\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\我的檔案\MVC\WebApplication_Customer\WebApplication1\bin\WebApplication1.dll.config
+D:\我的檔案\MVC\WebApplication_Customer\WebApplication1\bin\WebApplication1.dll
+D:\我的檔案\MVC\WebApplication_Customer\WebApplication1\bin\WebApplication1.pdb
+D:\我的檔案\MVC\WebApplication_Customer\WebApplication1\bin\CustomerLibrary.dll
+D:\我的檔案\MVC\WebApplication_Customer\WebApplication1\bin\EntityFramework.dll
+D:\我的檔案\MVC\WebApplication_Customer\WebApplication1\bin\EntityFramework.SqlServer.dll
+D:\我的檔案\MVC\WebApplication_Customer\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\我的檔案\MVC\WebApplication_Customer\WebApplication1\bin\System.Web.Helpers.dll
+D:\我的檔案\MVC\WebApplication_Customer\WebApplication1\bin\System.Web.Mvc.dll
+D:\我的檔案\MVC\WebApplication_Customer\WebApplication1\bin\System.Web.Razor.dll
+D:\我的檔案\MVC\WebApplication_Customer\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+D:\我的檔案\MVC\WebApplication_Customer\WebApplication1\bin\System.Web.Webpages.dll
+D:\我的檔案\MVC\WebApplication_Customer\WebApplication1\bin\System.Web.Webpages.Razor.dll
+D:\我的檔案\MVC\WebApplication_Customer\WebApplication1\bin\CustomerLibrary.pdb
+D:\我的檔案\MVC\WebApplication_Customer\WebApplication1\bin\CustomerLibrary.dll.config
+D:\我的檔案\MVC\WebApplication_Customer\WebApplication1\bin\EntityFramework.xml
+D:\我的檔案\MVC\WebApplication_Customer\WebApplication1\bin\EntityFramework.SqlServer.xml
+D:\我的檔案\MVC\WebApplication_Customer\WebApplication1\bin\System.Web.Razor.xml
+D:\我的檔案\MVC\WebApplication_Customer\WebApplication1\bin\System.Web.Webpages.xml
+D:\我的檔案\MVC\WebApplication_Customer\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+D:\我的檔案\MVC\WebApplication_Customer\WebApplication1\bin\System.Web.Webpages.Razor.xml
+D:\我的檔案\MVC\WebApplication_Customer\WebApplication1\bin\System.Web.Helpers.xml
+D:\我的檔案\MVC\WebApplication_Customer\WebApplication1\bin\System.Web.Mvc.xml
+D:\我的檔案\MVC\WebApplication_Customer\WebApplication1\bin\zh-Hant\System.Web.Razor.resources.dll
+D:\我的檔案\MVC\WebApplication_Customer\WebApplication1\bin\zh-Hant\System.Web.Webpages.resources.dll
+D:\我的檔案\MVC\WebApplication_Customer\WebApplication1\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+D:\我的檔案\MVC\WebApplication_Customer\WebApplication1\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+D:\我的檔案\MVC\WebApplication_Customer\WebApplication1\bin\zh-Hant\System.Web.Helpers.resources.dll
+D:\我的檔案\MVC\WebApplication_Customer\WebApplication1\bin\zh-Hant\System.Web.Mvc.resources.dll
+D:\我的檔案\MVC\WebApplication_Customer\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+D:\我的檔案\MVC\WebApplication_Customer\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\我的檔案\MVC\WebApplication_Customer\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\我的檔案\MVC\WebApplication_Customer\WebApplication1\obj\Debug\WebApplication1.dll
+D:\我的檔案\MVC\WebApplication_Customer\WebApplication1\obj\Debug\WebApplication1.pdb

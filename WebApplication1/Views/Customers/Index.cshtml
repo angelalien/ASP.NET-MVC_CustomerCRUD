@@ -1,0 +1,45 @@
+﻿@model WebApplication1.Models.CustomersModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>客戶清單</h2>
+<table class="table">
+    <tr>
+        <th>CustomerID</th>
+        <th>Contact Name</th>
+        <th>Company Name</th>
+        <th>Phone</th>
+        <th>Country</th>
+        <th>Edit</th>
+        <th>Delete</th>
+    </tr>
+    @foreach (var item in Model.CustomerList)
+    {
+    <tr>
+        <td>
+            @item.CustomerID
+        </td>
+        <td>
+            @item.ContactName
+        </td>
+        <td>
+            @item.CompanyName
+        </td>
+        <td>
+            @item.Phone
+        </td>
+        <td>
+            @item.Country
+        </td>
+        <td>
+            <a href="~/Customers/Details?id=@item.CustomerID">Edit</a>
+        </td>
+        <td>
+            <a href="~/Customers/Delete?id=@item.CustomerID">Delete</a>
+        </td>
+    </tr>
+    }
+</table>
+

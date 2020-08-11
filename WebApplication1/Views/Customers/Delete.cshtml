@@ -1,0 +1,38 @@
+﻿@model WebApplication1.Models.CustomersModel
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>刪除員工資料</h2>
+
+<form method="post" action="~/Customers/Delete">
+    @Html.HiddenFor(m => m.Form.CustomerID)@*有點類似session概念*@
+    <table class="table">
+        <tr>
+            <th>Contact Name</th>
+            <td>
+                @Html.TextBoxFor(m => m.Form.ContactName)
+            </td>
+        </tr>
+        <tr>
+            <th>Company Name</th>
+            <td>
+                @Html.TextBoxFor(m => m.Form.CompanyName)
+            </td>
+        </tr>
+        <tr>
+            <th>Phone</th>
+            <td>
+                @Html.TextBoxFor(m => m.Form.Phone)
+            </td>
+        </tr>
+        <tr>
+            <th>Country</th>
+            <td>
+                @Html.TextBoxFor(m => m.Form.Country)
+            </td>
+        </tr>
+    </table>
+    <input type="submit" class="btn btn-primary" value="刪除" />
+</form>

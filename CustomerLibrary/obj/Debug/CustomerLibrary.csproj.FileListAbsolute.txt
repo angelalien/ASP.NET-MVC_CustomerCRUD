@@ -1,0 +1,25 @@
+d:\users\s429117\documents\visual studio 2013\Projects\WebApplication_Customer\CustomerLibrary\bin\Debug\CustomerLibrary.dll.config
+d:\users\s429117\documents\visual studio 2013\Projects\WebApplication_Customer\CustomerLibrary\bin\Debug\CustomerLibrary.dll
+d:\users\s429117\documents\visual studio 2013\Projects\WebApplication_Customer\CustomerLibrary\bin\Debug\CustomerLibrary.pdb
+d:\users\s429117\documents\visual studio 2013\Projects\WebApplication_Customer\CustomerLibrary\bin\Debug\EntityFramework.dll
+d:\users\s429117\documents\visual studio 2013\Projects\WebApplication_Customer\CustomerLibrary\bin\Debug\EntityFramework.SqlServer.dll
+d:\users\s429117\documents\visual studio 2013\Projects\WebApplication_Customer\CustomerLibrary\bin\Debug\EntityFramework.xml
+d:\users\s429117\documents\visual studio 2013\Projects\WebApplication_Customer\CustomerLibrary\bin\Debug\EntityFramework.SqlServer.xml
+d:\users\s429117\documents\visual studio 2013\Projects\WebApplication_Customer\CustomerLibrary\bin\Debug\zh-Hant\EntityFramework.resources.dll
+d:\users\s429117\documents\visual studio 2013\Projects\WebApplication_Customer\CustomerLibrary\obj\Debug\CustomerLibrary.csprojResolveAssemblyReference.cache
+d:\users\s429117\documents\visual studio 2013\Projects\WebApplication_Customer\CustomerLibrary\obj\Debug\CustomerLibrary.dll
+d:\users\s429117\documents\visual studio 2013\Projects\WebApplication_Customer\CustomerLibrary\obj\Debug\CustomerLibrary.pdb
+D:\我的檔案\MVC\WebApplication_Customer\CustomerLibrary\bin\Debug\CustomerLibrary.dll.config
+D:\我的檔案\MVC\WebApplication_Customer\CustomerLibrary\bin\Debug\CustomerLibrary.dll
+D:\我的檔案\MVC\WebApplication_Customer\CustomerLibrary\bin\Debug\CustomerLibrary.pdb
+D:\我的檔案\MVC\WebApplication_Customer\CustomerLibrary\bin\Debug\EntityFramework.dll
+D:\我的檔案\MVC\WebApplication_Customer\CustomerLibrary\bin\Debug\EntityFramework.SqlServer.dll
+D:\我的檔案\MVC\WebApplication_Customer\CustomerLibrary\bin\Debug\EntityFramework.xml
+D:\我的檔案\MVC\WebApplication_Customer\CustomerLibrary\bin\Debug\EntityFramework.SqlServer.xml
+D:\我的檔案\MVC\WebApplication_Customer\CustomerLibrary\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\我的檔案\MVC\WebApplication_Customer\CustomerLibrary\obj\Debug\CustomerLibrary.csprojAssemblyReference.cache
+D:\我的檔案\MVC\WebApplication_Customer\CustomerLibrary\obj\Debug\CustomerLibrary.csproj.CoreCompileInputs.cache
+D:\我的檔案\MVC\WebApplication_Customer\CustomerLibrary\obj\Debug\CustomerLibrary.csproj.CopyComplete
+D:\我的檔案\MVC\WebApplication_Customer\CustomerLibrary\obj\Debug\CustomerLibrary.dll
+D:\我的檔案\MVC\WebApplication_Customer\CustomerLibrary\obj\Debug\CustomerLibrary.pdb
+D:\我的檔案\MVC\WebApplication_Customer\CustomerLibrary\bin\Debug\zh-Hant\EntityFramework.SqlServer.resources.dll
